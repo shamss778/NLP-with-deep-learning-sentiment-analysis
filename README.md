@@ -62,3 +62,10 @@ To address data imbalance and improve model robustness, data augmentation techni
 Supervised machine learning models were used for sentiment classification:
 
 *   Gaussian Naive Bayes
+
+## Running the Streamlit App
+
+1. Install Streamlit: pip install streamlit
+2. Launch the Streamlit app: streamlit run app.py
+
+
